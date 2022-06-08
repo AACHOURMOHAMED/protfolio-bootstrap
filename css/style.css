@@ -123,7 +123,7 @@ summary:hover .summary-chevron-up svg {
 
 /* End of details */
 
-@media (max-width: 800px) {
+@media (max-width: 799px) {
   #main {
     height: 718px;
     background-image: url(../assest/back.svg);
